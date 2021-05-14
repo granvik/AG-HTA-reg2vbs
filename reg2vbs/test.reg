@@ -1,0 +1,692 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgAPI]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgAPI\Template]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgAPI\Template\00001562]
+"Left"=dword:000000f9
+"Top"=dword:000000e0
+"Width"=dword:0000020e
+"Height"=dword:00000140
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgAPI\Template\00001601]
+"Left"=dword:000000fd
+"Top"=dword:000000fe
+"Width"=dword:000001be
+"Height"=dword:00000118
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgAPI\Template\00002100]
+"Left"=dword:000000f3
+"Top"=dword:000000c3
+"Width"=dword:0000021b
+"Height"=dword:0000017b
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgAPI\Template\00002154]
+"Left"=dword:00000156
+"Top"=dword:0000011c
+"Width"=dword:00000154
+"Height"=dword:000000c8
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgCC]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgCC\Template]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgCC\Template\00000130]
+"Width"=dword:00000293
+"Height"=dword:000001f4
+"Maximized"=dword:00000000
+"Left"=dword:000000b6
+"Top"=dword:00000086
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgCC\Template\00001812]
+"Left"=dword:00000139
+"Top"=dword:00000119
+"Width"=dword:0000018f
+"Height"=dword:000000cf
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgCC\Template\00001831]
+"Left"=dword:00000107
+"Top"=dword:000000f9
+"Width"=dword:000001f1
+"Height"=dword:0000010e
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgFree]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgFree\Lists]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgFree\Lists\TestResults]
+"Count"=dword:00000006
+"0"=dword:00000048
+"1"=dword:0000002d
+"2"=dword:0000002d
+"3"=dword:0000003a
+"4"=dword:00000038
+"5"=dword:0000002f
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgFree\Template]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgFree\Template\00000130]
+"Width"=dword:00000291
+"Height"=dword:000001b8
+"Maximized"=dword:00000000
+"Left"=dword:000000c0
+"Top"=dword:000000a4
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgInet]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgInet\Template]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgInet\Template\00001834]
+"Left"=dword:0000013c
+"Top"=dword:000000e1
+"Width"=dword:00000188
+"Height"=dword:0000015c
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings]
+"LocalToolbar"=dword:00000001
+"Maximized"=dword:00000000
+"ExportIndex"=dword:00000000
+"Horiz lines"=dword:00000001
+"Vert lines"=dword:00000001
+"Header0"="&V"
+"Header1"="- &P -"
+"Header2"="&D  &T"
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns]
+"Count"=dword:00000007
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\0]
+"id"=dword:00000001
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\1]
+"id"=dword:00000002
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\2]
+"id"=dword:00000003
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\3]
+"id"=dword:00000004
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\4]
+"id"=dword:00000005
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\5]
+"id"=dword:00000006
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\Columns\6]
+"id"=dword:00000007
+"width"=dword:00000064
+"show"=dword:00000001
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Settings\PrintFont]
+"Height"=dword:00000050
+"Width"=dword:00000000
+"Escapement"=dword:00000000
+"Orientation"=dword:00000000
+"Weight"=dword:00000000
+"Italic"=dword:00000000
+"Underline"=dword:00000000
+"StrikeOut"=dword:00000000
+"CharSet"=dword:00000001
+"OutPrecision"=dword:00000002
+"ClipPrecision"=dword:00000000
+"Quality"=dword:00000000
+"Pitch&Family"=dword:00000000
+"FaceName"="Arial"
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Template]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Template\00000130]
+"Width"=dword:00000294
+"Height"=dword:000001b8
+"Maximized"=dword:00000000
+"Left"=dword:000000b6
+"Top"=dword:000000a4
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\AvgVV\Template\00001402]
+"Left"=dword:00000014
+"Top"=dword:00000032
+"Width"=dword:000001c2
+"Height"=dword:0000012c
+"Maximized"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\gui]
+"tmgr.filter.list"=dword:00000000
+"tmgr.start.12"="25.02.2006 22:23:41"
+"tmgr.filter.detail"=dword:00000000
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Avg7\Config\Update]
+"RunApp"=dword:ffffffff
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Clients]
+
+[HKEY_CURRENT_USER\aaa\Grisoft\Clients\{3C9EFEC2-8D1A-11D5-989F-0000E87B4FB1}]
+
+[HKEY_CURRENT_USER\EE]
+"LANG"="ru"
+"TEMP"=hex(2):25,00,55,00,53,00,45,00,52,00,50,00,52,00,4f,00,46,00,49,00,4c,\
+  00,45,00,25,00,5c,00,4c,00,6f,00,63,00,61,00,6c,00,20,00,53,00,65,00,74,00,\
+  74,00,69,00,6e,00,67,00,73,00,5c,00,54,00,65,00,6d,00,70,00,00,00
+"TMP"=hex(2):25,00,55,00,53,00,45,00,52,00,50,00,52,00,4f,00,46,00,49,00,4c,00,\
+  45,00,25,00,5c,00,4c,00,6f,00,63,00,61,00,6c,00,20,00,53,00,65,00,74,00,74,\
+  00,69,00,6e,00,67,00,73,00,5c,00,54,00,65,00,6d,00,70,00,00,00
+"FolderShortcuts"=hex:
+"FolderHistory"=hex:43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,\
+  00,73,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,\
+  6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,74,00,69,\
+  00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,5c,00,20,04,\
+  30,04,31,04,3e,04,47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,04,5c,00,00,\
+  00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,\
+  20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,74,00,69,00,6e,00,67,00,73,\
+  00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,5c,00,20,04,30,04,31,04,3e,04,\
+  47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,04,5c,00,62,00,72,00,77,00,73,\
+  00,77,00,68,00,74,00,61,00,2e,00,7a,00,69,00,70,00,5c,00,00,00,43,00,3a,00,\
+  5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,20,00,61,00,6e,\
+  00,64,00,20,00,53,00,65,00,74,00,74,00,69,00,6e,00,67,00,73,00,5c,00,10,04,\
+  3d,04,34,04,40,04,35,04,39,04,5c,00,20,04,30,04,31,04,3e,04,47,04,38,04,39,\
+  04,20,00,41,04,42,04,3e,04,3b,04,5c,00,62,00,72,00,77,00,73,00,77,00,68,00,\
+  74,00,61,00,2e,00,7a,00,69,00,70,00,5c,00,58,00,62,00,72,00,6f,00,77,00,73,\
+  00,65,00,72,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,\
+  65,00,6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,74,\
+  00,69,00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,5c,00,\
+  20,04,30,04,31,04,3e,04,47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,04,5c,\
+  00,62,00,72,00,77,00,73,00,77,00,68,00,74,00,61,00,2e,00,7a,00,69,00,70,00,\
+  5c,00,54,00,6f,00,6f,00,6c,00,73,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,\
+  00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,00,\
+  53,00,65,00,74,00,74,00,69,00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,40,\
+  04,35,04,39,04,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,00,77,00,6e,00,6c,00,\
+  6f,00,61,00,64,00,73,00,5c,00,10,04,40,04,45,04,38,04,32,04,4b,04,5c,00,00,\
+  00,43,00,3a,00,5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,\
+  5c,00,10,04,40,04,45,04,38,04,32,04,4b,04,5c,00,57,00,53,00,2e,00,45,00,58,\
+  00,45,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,\
+  6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,74,00,69,\
+  00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,5c,00,20,04,\
+  30,04,31,04,3e,04,47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,04,5c,00,70,\
+  00,6c,00,61,00,74,00,5f,00,6f,00,62,00,6f,00,72,00,6f,00,74,00,2e,00,7a,00,\
+  69,00,70,00,5c,00,00,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,\
+  00,6d,00,73,00,5c,00,4c,00,6f,00,67,00,6f,00,6e,00,53,00,63,00,72,00,69,00,\
+  70,00,74,00,47,00,65,00,6e,00,65,00,72,00,61,00,74,00,6f,00,72,00,5c,00,00,\
+  00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,\
+  20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,74,00,69,00,6e,00,67,00,73,\
+  00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,5c,00,20,04,30,04,31,04,3e,04,\
+  47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,04,5c,00,6f,00,73,00,68,00,6f,\
+  00,5f,00,52,00,61,00,64,00,6f,00,73,00,74,00,2e,00,7a,00,69,00,70,00,5c,00,\
+  00,00,46,00,3a,00,5c,00,74,00,65,00,6d,00,70,00,5c,00,00,00,43,00,3a,00,5c,\
+  00,00,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,00,\
+  46,00,69,00,6c,00,65,00,73,00,5c,00,00,00,43,00,3a,00,5c,00,50,00,72,00,6f,\
+  00,67,00,72,00,61,00,6d,00,20,00,46,00,69,00,6c,00,65,00,73,00,5c,00,46,00,\
+  61,00,72,00,5c,00,00,00,46,00,3a,00,5c,00,74,00,65,00,6d,00,70,00,5c,00,4c,\
+  00,6f,00,67,00,6f,00,6e,00,53,00,63,00,72,00,69,00,70,00,74,00,47,00,65,00,\
+  6e,00,65,00,72,00,61,00,74,00,6f,00,72,00,2e,00,7a,00,69,00,70,00,5c,00,00,\
+  00,47,00,3a,00,5c,00,74,00,65,00,6d,00,70,00,5c,00,10,04,32,04,42,04,3e,04,\
+  2d,00,1a,04,40,04,35,04,34,04,38,04,42,04,5c,00,72,00,75,00,6c,00,5f,00,75,\
+  00,72,00,61,00,6c,00,2e,00,7a,00,69,00,70,00,5c,00,00,00,47,00,3a,00,5c,00,\
+  74,00,65,00,6d,00,70,00,5c,00,10,04,32,04,42,04,3e,04,2d,00,1a,04,40,04,35,\
+  04,34,04,38,04,42,04,5c,00,00,00,47,00,3a,00,5c,00,74,00,65,00,6d,00,70,00,\
+  5c,00,10,04,32,04,42,04,3e,04,2d,00,1a,04,40,04,35,04,34,04,38,04,42,04,5c,\
+  00,72,00,75,00,6c,00,5f,00,73,00,6f,00,62,00,2e,00,7a,00,69,00,70,00,5c,00,\
+  00,00,47,00,3a,00,5c,00,74,00,65,00,6d,00,70,00,5c,00,10,04,32,04,42,04,3e,\
+  04,2d,00,1a,04,40,04,35,04,34,04,38,04,42,04,5c,00,72,00,75,00,6c,00,5f,00,\
+  70,00,73,00,62,00,2e,00,7a,00,69,00,70,00,5c,00,00,00,47,00,3a,00,5c,00,74,\
+  00,65,00,6d,00,70,00,5c,00,10,04,32,04,42,04,3e,04,2d,00,1a,04,40,04,35,04,\
+  34,04,38,04,42,04,5c,00,72,00,75,00,6c,00,5f,00,67,00,75,00,74,00,61,00,2e,\
+  00,7a,00,69,00,70,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,\
+  6d,00,65,00,6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,\
+  00,74,00,69,00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,\
+  5c,00,20,04,30,04,31,04,3e,04,47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,\
+  04,5c,00,66,00,65,00,65,00,64,00,6f,00,6e,00,66,00,65,00,65,00,64,00,73,00,\
+  2d,00,30,00,2e,00,31,00,2e,00,39,00,2e,00,74,00,61,00,72,00,2e,00,67,00,7a,\
+  00,5c,00,66,00,65,00,65,00,64,00,6f,00,6e,00,66,00,65,00,65,00,64,00,73,00,\
+  2d,00,30,00,2e,00,31,00,2e,00,39,00,2e,00,74,00,61,00,72,00,5c,00,66,00,65,\
+  00,65,00,64,00,6f,00,6e,00,66,00,65,00,65,00,64,00,73,00,2d,00,30,00,2e,00,\
+  31,00,2e,00,39,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,\
+  00,65,00,6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,\
+  74,00,69,00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,40,04,35,04,39,04,5c,\
+  00,20,04,30,04,31,04,3e,04,47,04,38,04,39,04,20,00,41,04,42,04,3e,04,3b,04,\
+  5c,00,66,00,65,00,65,00,64,00,6f,00,6e,00,66,00,65,00,65,00,64,00,73,00,2d,\
+  00,30,00,2e,00,31,00,2e,00,39,00,2e,00,74,00,61,00,72,00,2e,00,67,00,7a,00,\
+  5c,00,66,00,65,00,65,00,64,00,6f,00,6e,00,66,00,65,00,65,00,64,00,73,00,2d,\
+  00,30,00,2e,00,31,00,2e,00,39,00,2e,00,74,00,61,00,72,00,5c,00,00,00,43,00,\
+  3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,20,00,61,\
+  00,6e,00,64,00,20,00,53,00,65,00,74,00,74,00,69,00,6e,00,67,00,73,00,5c,00,\
+  10,04,3d,04,34,04,40,04,35,04,39,04,5c,00,20,04,30,04,31,04,3e,04,47,04,38,\
+  04,39,04,20,00,41,04,42,04,3e,04,3b,04,5c,00,66,00,65,00,65,00,64,00,6f,00,\
+  6e,00,66,00,65,00,65,00,64,00,73,00,2d,00,30,00,2e,00,31,00,2e,00,39,00,2e,\
+  00,74,00,61,00,72,00,2e,00,67,00,7a,00,5c,00,00,00,43,00,3a,00,5c,00,44,00,\
+  6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,20,00,61,00,6e,00,64,00,20,\
+  00,53,00,65,00,74,00,74,00,69,00,6e,00,67,00,73,00,5c,00,10,04,3d,04,34,04,\
+  40,04,35,04,39,04,5c,00,20,04,30,04,31,04,3e,04,47,04,38,04,39,04,20,00,41,\
+  04,42,04,3e,04,3b,04,5c,00,76,00,61,00,7a,00,2e,00,72,00,61,00,72,00,5c,00,\
+  00,00,44,00,3a,00,5c,00,44,00,69,00,73,00,74,00,72,00,5c,00,30,00,36,00,30,\
+  00,33,00,33,00,31,00,5c,00,13,04,40,04,30,04,31,04,38,04,42,04,4c,04,20,00,\
+  41,04,42,04,40,04,30,04,3d,04,38,04,46,04,4b,04,5c,00,53,00,6e,00,6f,00,6f,\
+  00,70,00,79,00,2d,00,31,00,2e,00,32,00,2e,00,33,00,2e,00,74,00,61,00,72,00,\
+  2e,00,67,00,7a,00,5c,00,53,00,6e,00,6f,00,6f,00,70,00,79,00,2d,00,31,00,2e,\
+  00,32,00,2e,00,33,00,2e,00,74,00,61,00,72,00,5c,00,53,00,6e,00,6f,00,6f,00,\
+  70,00,79,00,2d,00,31,00,2e,00,32,00,2e,00,33,00,5c,00,00,00,44,00,3a,00,5c,\
+  00,44,00,69,00,73,00,74,00,72,00,5c,00,30,00,36,00,30,00,33,00,33,00,31,00,\
+  5c,00,13,04,40,04,30,04,31,04,38,04,42,04,4c,04,20,00,41,04,42,04,40,04,30,\
+  04,3d,04,38,04,46,04,4b,04,5c,00,53,00,6e,00,6f,00,6f,00,70,00,79,00,2d,00,\
+  31,00,2e,00,32,00,2e,00,33,00,2e,00,74,00,61,00,72,00,2e,00,67,00,7a,00,5c,\
+  00,53,00,6e,00,6f,00,6f,00,70,00,79,00,2d,00,31,00,2e,00,32,00,2e,00,33,00,\
+  2e,00,74,00,61,00,72,00,5c,00,00,00,44,00,3a,00,5c,00,44,00,69,00,73,00,74,\
+  00,72,00,5c,00,30,00,36,00,30,00,33,00,33,00,31,00,5c,00,13,04,40,04,30,04,\
+  31,04,38,04,42,04,4c,04,20,00,41,04,42,04,40,04,30,04,3d,04,38,04,46,04,4b,\
+  04,5c,00,53,00,6e,00,6f,00,6f,00,70,00,79,00,2d,00,31,00,2e,00,32,00,2e,00,\
+  33,00,2e,00,74,00,61,00,72,00,2e,00,67,00,7a,00,5c,00,00,00,1a,04,3e,04,3c,\
+  04,3f,04,4c,04,4e,04,42,04,35,04,40,04,5c,00,00,00,44,00,3a,00,5c,00,00,00,\
+  44,00,3a,00,5c,00,44,00,69,00,73,00,74,00,72,00,5c,00,00,00,44,00,3a,00,5c,\
+  00,44,00,69,00,73,00,74,00,72,00,5c,00,1d,04,3e,04,32,04,30,04,4f,04,5c,00,\
+  00,00,46,00,3a,00,5c,00,74,00,65,00,6d,00,70,00,5c,00,30,00,36,00,30,00,33,\
+  00,33,00,31,00,5c,00,46,00,61,00,72,00,4d,00,61,00,6e,00,61,00,67,00,65,00,\
+  72,00,31,00,37,00,30,00,2e,00,72,00,61,00,72,00,5c,00,00,00,44,00,3a,00,5c,\
+  00,44,00,69,00,73,00,74,00,72,00,5c,00,1d,04,3e,04,32,04,30,04,4f,04,5c,00,\
+  1d,04,3e,04,32,04,30,04,4f,04,5c,00,00,00,44,00,3a,00,5c,00,44,00,69,00,73,\
+  00,74,00,72,00,5c,00,1d,04,3e,04,32,04,30,04,4f,04,5c,00,6a,00,6f,00,6f,00,\
+  6d,00,6c,00,61,00,5c,00,00,00,44,00,3a,00,5c,00,44,00,69,00,73,00,74,00,72,\
+  00,5c,00,1d,04,3e,04,32,04,30,04,4f,04,5c,00,54,00,6f,00,44,00,6f,00,4c,00,\
+  69,00,73,00,74,00,5f,00,65,00,78,00,65,00,2e,00,7a,00,69,00,70,00,5c,00,00,\
+  00,44,00,3a,00,5c,00,44,00,69,00,73,00,74,00,72,00,5c,00,1d,04,3e,04,32,04,\
+  30,04,4f,04,5c,00,32,00,30,00,30,00,36,00,30,00,33,00,30,00,37,00,30,00,33,\
+  00,33,00,32,00,33,00,31,00,5f,00,62,00,61,00,63,00,6b,00,75,00,70,00,5f,00,\
+  64,00,79,00,6c,00,4f,00,7a,00,36,00,76,00,6e,00,62,00,67,00,5a,00,56,00,76,\
+  00,4a,00,45,00,44,00,2e,00,74,00,61,00,72,00,2e,00,67,00,7a,00,5c,00,32,00,\
+  30,00,30,00,36,00,30,00,33,00,30,00,37,00,30,00,33,00,33,00,32,00,33,00,31,\
+  00,5f,00,62,00,61,00,63,00,6b,00,75,00,70,00,5f,00,64,00,79,00,6c,00,4f,00,\
+  7a,00,36,00,76,00,6e,00,62,00,67,00,5a,00,56,00,76,00,4a,00,45,00,44,00,2e,\
+  00,74,00,61,00,72,00,5c,00,00,00,44,00,3a,00,5c,00,44,00,69,00,73,00,74,00,\
+  72,00,5c,00,1d,04,3e,04,32,04,30,04,4f,04,5c,00,32,00,30,00,30,00,36,00,30,\
+  00,33,00,30,00,37,00,30,00,33,00,33,00,32,00,33,00,31,00,5f,00,62,00,61,00,\
+  63,00,6b,00,75,00,70,00,5f,00,64,00,79,00,6c,00,4f,00,7a,00,36,00,76,00,6e,\
+  00,62,00,67,00,5a,00,56,00,76,00,4a,00,45,00,44,00,2e,00,74,00,61,00,72,00,\
+  2e,00,67,00,7a,00,5c,00,00,00,00,00,44,00,3a,00,5c,00,44,00,69,00,73,00,74,\
+  00,72,00,5c,00,1d,04,3e,04,32,04,30,04,4f,04,5c,00,66,00,6f,00,6e,00,74,00,\
+  73,00,2e,00,7a,00,69,00,70,00,5c,00,00,00
+"Multi String Value Name"=hex(7):66,00,69,00,72,00,73,00,74,00,20,00,73,00,74,\
+  00,72,00,69,00,6e,00,67,00,00,00,73,00,65,00,63,00,6f,00,6e,00,64,00,20,00,\
+  73,00,74,00,72,00,69,00,6e,00,67,00,00,00,74,00,68,00,69,00,72,00,64,00,20,\
+  00,73,00,74,00,72,00,69,00,6e,00,67,00,00,00,66,00,6f,00,75,00,72,00,74,00,\
+  68,00,20,00,73,00,74,00,72,00,69,00,6e,00,67,00,00,00,00,00  
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc]
+@="Документ Microsoft Word"
+"Backup"="WordPad.Document.1"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,1"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.doc\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot]
+@="Шаблон Microsoft Word"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,2"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell]
+@="new"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.dot\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot]
+@="Шаблон Microsoft PowerPoint"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,8"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell]
+@="new"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pot\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps]
+@="Презентация Microsoft PowerPoint"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,7"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.pps\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt]
+@="Презентация Microsoft PowerPoint"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,7"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.ppt\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls]
+@="Электронная таблица Microsoft Excel"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,3"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xls\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt]
+@="Шаблон Microsoft Excel"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\DefaultIcon]
+@="C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe,4"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell]
+@="new"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\new]
+@="Создать"
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\new\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -n \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\open]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\open\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -o \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\print]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\print\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -p \"%1\""
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\printto]
+
+[HKEY_CLASSES_ROOT\OpenOffice.org.xlt\shell\printto\command]
+@="\"C:\\Program Files\\OpenOffice.org 2.2\\program\\soffice.exe\" -pt \"%2\" \"%1\""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.doc]
+@="OpenOffice.org.doc"
+
+[HKEY_CLASSES_ROOT\.doc\OpenWithList]
+
+[HKEY_CLASSES_ROOT\.doc\OpenWithList\WordPad.exe]
+
+[HKEY_CLASSES_ROOT\.doc\OpenWithProgIDs]
+"opendocument.WriterDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.doc\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+[HKEY_CLASSES_ROOT\.doc\ShellNew]
+"NullFile"=""
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.dot]
+@="OpenOffice.org.dot"
+
+[HKEY_CLASSES_ROOT\.dot\OpenWithProgIDs]
+"opendocument.WriterDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.dot\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.xls]
+@="OpenOffice.org.xls"
+
+[HKEY_CLASSES_ROOT\.xls\OpenWithProgIDs]
+"opendocument.CalcDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.xls\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.xlt]
+@="OpenOffice.org.xlt"
+
+[HKEY_CLASSES_ROOT\.xlt\OpenWithProgIDs]
+"opendocument.CalcDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.xlt\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.ppt]
+@="OpenOffice.org.ppt"
+
+[HKEY_CLASSES_ROOT\.ppt\OpenWithProgIDs]
+"opendocument.ImpressDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.ppt\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.pps]
+@="OpenOffice.org.pps"
+
+[HKEY_CLASSES_ROOT\.pps\OpenWithProgIDs]
+"opendocument.ImpressDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.pps\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.pot]
+@="OpenOffice.org.pot"
+
+[HKEY_CLASSES_ROOT\.pot\OpenWithProgIDs]
+"opendocument.ImpressDocument.1"=" "
+
+[HKEY_CLASSES_ROOT\.pot\PersistentHandler]
+@="{98de59a0-d175-11cd-a7bd-00006b827d94}"
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop]
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Network]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Network]
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System]
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall]
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\WinOldApp]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\WinOldApp]
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop]
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Network]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Network]
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System]
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall]
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\WinOldApp]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\WinOldApp]

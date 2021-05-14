@@ -1,0 +1,122 @@
+<html>
+<!--********************************************************************
+'*
+'*  File:           reg2vbs.hta
+'*  Created:        may 2007
+'*  Changed:        2009-08-19
+'*  Version:        0.9.5
+'*  Author:         Andrey Grevtsov 
+'*                  http://aradm.ru
+'*
+'*  Description:    Tool for convert from registry file to VB script  
+'*                  using WMI
+'*
+'*  Copyleft (C):   2009 Andrey Grevtsov
+'*
+'*  License:        GPL
+'*
+'********************************************************************-->
+<head>
+<META HTTP-EQUIV="MSThemeCompatible" CONTENT="yes">
+<title>reg2vbs - Конвертация из формата файла реестра в сценарий VBS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<HTA:application
+  id="objReg2vbs"
+  applicationname="reg2vbs"
+  borderstyle="normal"
+  caption="yes"
+  contextmenu="false"
+  icon="reg2vbs.ico"
+  maximizebutton="true"
+  minimizebutton="true"
+  navigable="false"
+  scroll="true"
+  selection="false"
+  showintaskbar="true"
+  singleinstance="true"
+  sysmenu="true"
+  version="0.9.3"
+  windowstate="normal"
+>
+
+
+<style>
+body {
+   background-color: buttonface;
+   font-family: Helvetica;
+   font-size: 8pt;
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+.button {
+   font-family: Helvetica;
+   font-size: 8pt;
+   width: 35px;
+}
+textarea {
+   font-family: arial;
+   font-size: 8pt;
+   margin-left: 3px;
+   width: 100%;
+   height:200px;    
+}
+select {
+   font-family: arial;
+   font-size: 8pt;
+   width: 40px;
+   margin-left: 0px;
+}
+#output {
+   height:200px; 
+   background-color:silver;
+}
+#intro {
+   font-family: arial;
+   font-size: 10pt;
+   font-weight:bold;
+}
+
+</style>
+<script type="text/javascript" src="../lib/getCurrentDir.js"></script>
+<script type="text/javascript" src="../lib/saveFile.js"></script>
+<script type="text/javascript" src="../lib/convertRegfileToVbs.js"></script>
+<script type="text/javascript">
+function windowOnload(){
+  strHTADir = getCurrentDir();
+  ForReading = 1;
+  objFs = new ActiveXObject("Scripting.FileSystemObject");
+  objFile = objFs.OpenTextFile( strHTADir+"test.reg" , ForReading);
+  registry_keys.value=objFile.ReadAll();
+  btnSaveFile.style.display="none";
+  output.style.display="none";   
+}
+
+function createScript() {
+  output.value = convertRegfileToVbs(registry_keys.value);
+  output.style.display='block';
+  btnSaveFile.style.display='block';
+}
+
+function clearOutput() {
+  output.value = '';
+  btnSaveFile.style.display='none';
+  output.style.display='none';
+}
+</script>
+
+</head>
+
+<body onload="javascript:windowOnload();">
+<div id="intro">Вставьте в поле содержимое файла реестра (.reg)</div>
+<div>Не поддерживается загрузка исходного текста из файла (unicode) и удаление ключей реестра. В качестве примера при запуске приложения загружается содержимое файла test.reg.</div>
+<textarea name="registry_keys"  onchange="javascript:clearOutput()"></textarea>
+<input type="button" name="btnCreateScript" value="Создать скрипт" onclick="javascript:createScript()">
+<textarea id="output"></textarea>
+
+<input type="button" name="btnSaveFile" value="Сохранить скрипт" onclick="javascript:saveFile('vbs','registry.vbs')"><br />
+
+</body>
+
+</html>
